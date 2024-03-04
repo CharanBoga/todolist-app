@@ -1,4 +1,4 @@
-# Java TodoList App
+# TodoList App
 
 This is a simple TodoList application written in Java. It allows users to manage their tasks by adding, removing, and marking tasks as completed.
 
@@ -13,34 +13,15 @@ This is a simple TodoList application written in Java. It allows users to manage
 
 - Java
 - Git
+- Visual Studio
 
-## How to Use
+## Screenshots
 
-1. Clone the repository:
+![t](https://github.com/CharanBoga/todolist-java/assets/117650577/4ce03e2f-a86c-4fdd-83c9-9bbdd978e6b3)
 
-```bash
-git clone https://github.com/your-username/todo-list-java.git
-```
 
-2. Navigate to the project directory:
+![t2](https://github.com/CharanBoga/todolist-java/assets/117650577/45d72ad1-397d-40a2-8ec3-792ac92bf9a4)
 
-```bash
-cd todo-list-java
-```
-
-3. Compile the Java files:
-
-```bash
-javac TodoListApp.java
-```
-
-4. Run the application:
-
-```bash
-java TodoListApp
-```
-
-5. Follow the on-screen instructions to interact with the TodoList.
 
 ## Contributing
 
